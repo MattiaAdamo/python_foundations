@@ -40,3 +40,13 @@ Il progetto si concentra su:
 
 More updates coming soon.
 Aggiornamenti in arrivo.
+
+
+
+
+
+
+## 📜 License
+
+This project is licensed under the MIT License.
+Questo progetto è distribuito sotto licenza MIT.
