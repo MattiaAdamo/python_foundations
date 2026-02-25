@@ -1,61 +1,86 @@
-# 🎲 Random Number Generator
+# 🎲 Random Number Programs
 
-A very simple Python program that generates a random number between 1 and 100.
+This folder contains simple Python programs that demonstrate how to
+generate random numbers using Python's standard `random` library.
 
-Un semplice programma Python che genera un numero casuale tra 1 e 100.
+Questa cartella contiene semplici programmi Python che dimostrano come
+generare numeri casuali utilizzando la libreria standard `random`.
 
----
+------------------------------------------------------------------------
 
-## 🇬🇧 English
+## 📂 Included Programs
 
-### 📌 Overview
+### 1️⃣ random_number_basic.py
 
-This script demonstrates:
+A basic script that generates a random integer between 1 and 100.
 
-- Importing a standard Python library
-- Using the `random` module
-- Generating a random integer with `random.randint()`
-- Printing output to the terminal
+Uno script base che genera un numero intero casuale tra 1 e 100.
 
-### ▶ How it works
+#### 🇬🇧 Overview
 
-The program:
+This program demonstrates: - Importing a standard Python library - Using
+the `random` module - Generating a random integer with
+`random.randint()` - Printing output to the terminal
 
-1. Imports the `random` library
-2. Generates a random integer between 1 and 100
-3. Prints the generated number
+#### 🇮🇹 Panoramica
 
-### 🧠 Concepts Used
+Questo programma dimostra: - L'importazione di una libreria standard
+Python - L'utilizzo del modulo `random` - La generazione di un numero
+intero casuale con `random.randint()` - La stampa del risultato nel
+terminale
 
-- `import`
-- Variables
-- Functions
-- Standard library usage
+------------------------------------------------------------------------
 
----
+### 2️⃣ random_number_range.py
 
-## 🇮🇹 Italiano
+An interactive script that generates a random number within a range
+chosen by the user.
 
-### 📌 Panoramica
+Uno script interattivo che genera un numero casuale all'interno di un
+intervallo scelto dall'utente.
 
-Questo script dimostra:
+#### 🇬🇧 Overview
 
-- L'importazione di una libreria standard Python
-- L'utilizzo del modulo `random`
-- La generazione di un numero intero casuale con `random.randint()`
-- La stampa del risultato nel terminale
+This version improves the basic generator by allowing the user to
+define: - Minimum value - Maximum value
 
-### ▶ Come funziona
+How it works: 1. The user enters a minimum value. 2. The user enters a
+maximum value. 3. The values are converted to integers. 4. A random
+number is generated using `random.randint(min, max)`. 5. The result is
+displayed in the terminal.
 
-Il programma:
+Concepts used: - `import` - User input (`input()`) - Type conversion
+(`int()`) - Variables - Functions - Standard library usage
 
-1. Importa la libreria `random`
-2. Genera un numero intero tra 1 e 100
-3. Stampa il numero generato
+#### 🇮🇹 Panoramica
 
-### 🧠 Concetti utilizzati
+Questa versione migliora il generatore base permettendo all'utente di
+definire: - Valore minimo - Valore massimo
 
-- `import`
-- Variabili
-- Funzioni
-- Utilizzo della libreria standard
+Come funziona: 1. L'utente inserisce un valore minimo. 2. L'utente
+inserisce un valore massimo. 3. I valori vengono convertiti in numeri
+interi. 4. Viene generato un numero casuale con
+`random.randint(min, max)`. 5. Il risultato viene mostrato nel
+terminale.
+
+Concetti utilizzati: - `import` - Input utente (`input()`) - Conversione
+di tipo (`int()`) - Variabili - Funzioni - Utilizzo della libreria
+standard
+
+------------------------------------------------------------------------
+
+## 🧠 Learning Objective
+
+These examples introduce:
+
+-   Python standard libraries
+-   Function usage
+-   Interactive user input
+-   Basic program structure
+
+Questi esempi introducono:
+
+-   Librerie standard Python
+-   Utilizzo delle funzioni
+-   Interazione con l'utente
+-   Struttura base di un programma
