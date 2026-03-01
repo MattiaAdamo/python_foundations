@@ -107,7 +107,7 @@ IT: Una lista vuota vale `False`, una lista con elementi vale `True`.
 From inside the folder / Dall'interno della cartella:
 
 ``` bash
-python 01_lists.py
+python lists.py
 ```
 
 ------------------------------------------------------------------------
