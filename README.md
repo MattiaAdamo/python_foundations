@@ -39,7 +39,7 @@ Il progetto si concentra su:
 - 03_loops
 - 04_random
 - 05_conditionals
-- 06_data_structures → 01_lists | 02_tuples | 03_
+- 06_data_structures → 01_lists | 02_tuples | 03_sets
 
 More updates coming soon.
 Aggiornamenti in arrivo.
