@@ -37,6 +37,9 @@ Il progetto si concentra su:
 - 01_hello_world
 - 02_variables
 - 03_loops
+- 04_random
+- 05_conditionals
+- 06_data_structures → 01_lists | 02_tuples | 03_
 
 More updates coming soon.
 Aggiornamenti in arrivo.
